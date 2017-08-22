@@ -1,0 +1,12 @@
+x1	x2	1	
+x2	x2	1	x4	2	
+abc	l	1	pol	0	as	2	
+xyz	a	1	b	1	c	2	d	2	
+qaz	roo	1	pol	0	
+zyz	name	2	roll	1	
+s1	name	2	roll	1	
+s2	name	2	roll	1	
+sx	name	2	
+sy	name	2	roll	1	password	2	class	1	year	1	marks	0	
+student	name	2	roll	1	marks	0	class	1	
+faculty	name	2	faculty_id	1	

@@ -1,0 +1,6 @@
+create table student(name string, roll int, password string, class int , year int, marks float);
+insert student "hemanshu sondhi" 14075030 "hello12123434" 12 2014 99.5;
+student;
+project{name,year,password}(student);
+rename{t1 name1,ex_year.pass}(project{name,year,password}(student));
+select{ex_year>100}(rename{t1 name1 pass ex_year}(project{name,password,year}(student)));
